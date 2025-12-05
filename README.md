@@ -27,7 +27,7 @@ Como executar o projeto:
    pip install networkx matplotlib
 
 2. Rode o programa:
-   python codigo.py
+   python grafos.py
 
 ------------------------------------------------------------
 Formato dos arquivos de entrada
